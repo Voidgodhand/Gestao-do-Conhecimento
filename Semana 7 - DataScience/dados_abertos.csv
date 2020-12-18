@@ -1,0 +1,52 @@
+Titulo,Setor,URL,Formato,Numero de registros
+Google Data base,Tecnologia,https://cloud.google.com/products/databases,Interactive Data,
+Preço médio de carros,Diversos,https://veiculos.fipe.org.br,Interactive Data,
+Microsoft Knowledge Base Articles on Database,Tecnologia,https://docs.microsoft.com/en-us/visualstudio/windows/?view=vs-2019,Interactive Data,
+Homeland Security,Segurança,https://www.dhs.gov/sites/default/files/publications/claims-data-2015-as-of-feb-9-2016.xlsx,XLSX,
+BuzzFeed,Saúde,https://github.com/BuzzFeedNews/zika-data/blob/master/data/parsed/brazil/brazil-microcephaly-2016-01-30-table-1.csv,CSV,
+FiveThirtyEight,Entretenimento,https://github.com/fivethirtyeight/data/blob/master/avengers/avengers.csv,CSV,
+Indicadores de doenças crônicas,Saúde,https://chronicdata.cdc.gov/api/views/g4ie-h725/rows.json?accessType=DOWNLOAD,JSON,20 milhoes
+NASA Open Data,Diversos,https://data.nasa.gov/,JSON,10 mil
+Vulnerabilidade a Inundações do Brasil,Meio Ambiente,http://dados.gov.br/dataset/vulnerabilidade-a-inundacoes-do-brasil1,"HTML, JSON, DATA, CSV,ZIP",20 milhoes
+Acesso a internet e posse de celular,Tecnologia,https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html,XLS,378
+Infomações de filmes do IMDB,Entreterimento,https://datasets.imdbws.com/,GZ,
+Informações sobre o PIB por ano nos países,Economia,https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/index.aspx,CSV,193
+Novel Coronavirus (COVID-19) Cases Data,epidemiological,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,"Interactive Data, CSV",591k ++
+Google Seach Trends,diversos,https://trends.google.com/trends/explore,Interactive Data,
+AniList API V2 GraphQL Documentation,anime,https://github.com/AniList/ApiV2-GraphQL-Docs,GraphQL,500k ++
+,,,,
+,,,,
+,,,,
+IBGE - Evolução do salário Min,Financeiro,ftp://ftp.ibge.gov.br/Salario_Minimo/evolucao_do_salario_minimo.xls,"CSV , Excel , XLS",129
+Venda de videogame ,Diversos,https://www.kaggle.com/gregorut/videogamesales/data,"CSV , Excel , XLS",16600
+Portal da transparencia - Bolsa Família ,Auditória,http://www.portaldatransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos,"CSV , Excel , XLS",
+Comercio no Exterior,comércio,http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download,CSV,200K+
+Cursos Pronatec,cursos,http://www.mdic.gov.br/index.php/dados-abertos/2996-demanda-cursos-pronatec,csv,
+Despesa Atividade Parlamentar,politica,https://dadosabertos.camara.leg.br/swagger/api.html#staticfile,csv,
+Receita Federal,Economia,http://receita.economia.gov.br/dados,JSON,
+Cartola,Esporte,https://github.com/henriquepgomide/caRtola/tree/master/data,JSON,
+Vagalume,Musica,https://api.vagalume.com.br/docs/,JSON,
+Consumo de bebidas alcoólicas no mundo,Alimentício,https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/,CSV,194
+Pessoas que acreditam em fake news,Diversos,https://github.com/BuzzFeedNews/2016-12-fake-news-survey,CSV,18091+
+Dados de viagens do Uber,Transporte,https://movement.uber.com/cities?lang=pt-BR,CSV,1k +
+Portal da transparencia - CNPJ ,Diversos,http://www.portaltransparencia.gov.br/download-de-dados/favorecidos-pj,CSV,
+Câmara dos deputados ,Setor publico ,https://dadosabertos.camara.leg.br/swagger/api.html#staticfile,CSV,
+Dados de um E-Commerce Brasileiro,Financeiro,https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_products_dataset.csv,CSV,
+Transparência Rio ,Setor público ,https://www.rio.rj.gov.br/web/transparencia/dados-abertos,,
+Dados abertos Reino Unido,Diversos,https://data.gov.uk/,,
+Portal de compras ,Setor público ,https://www.comprasgovernamentais.gov.br/index.php/dados-abertos-2,,
+Prefeitura de Niterói,Segurança,http://transparencia.niteroi.rj.gov.br/Dados-Abertos/dados-abertos.html,csv,85k
+Anac,Categoria,https://www.anac.gov.br/dadosabertos/areas-de-atuacao/todos-os-dados-abertos,csv,137 k
+IBGE,Auditória,https://acessoainformacao.ibge.gov.br/acesso-a-informacao/auditorias.html,csv,
+Motoristas Habilitados transporte rodoviário,Transporte,https://dados.antt.gov.br/dataset/fb318e9c-8d0b-436b-a849-ad3b082ac6a8/resource/12deed4e-bc15-46ca-a9f7-bbd2b474fde7/download/motoristas_habilitados.json,JSON,
+GitHub Pull Request Review Comments ,Software,https://drive.google.com/file/d/1t-3ZwprNqBHZhO2_Mhp0Y1bCX9M500SM/edit,CSV XZ,25.3 milhões
+ECDC Corona Virus Cases,Health,https://opendata.ecdc.europa.eu/covid19/casedistribution/json/,JSON,100+
+Banco de Dados jogadores FIFA 20 ,Games,https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset,CSV,
+Banco de Dados MyAnimeList,Animes,https://www.kaggle.com/azathoth42/myanimelist/data,CSV,
+Copa do Mundo 2018,Esportes,http://www.fgv.br/emap/copa-2018/descricao.html,CSV,
+Tabela Fipe,Automotivo,https://deividfortuna.github.io/fipe/,JSON,
+TV Show informations,Entreterimento,http://www.tvmaze.com/api,JSON,
+COVID-19 new cases and total cases per country.,Saúde,https://covid19api.com/#details,JSON,
+Mercado Imobiliário,Economia,"https://olinda.bcb.gov.br/olinda/servico/MercadoImobiliario/versao/v1/odata/mercadoimobiliario?$format=json&$select=Data,Info,Valor",JSON,
+Lista de participantes do STR,Economia,http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv,CSV,
+Expectativa de mercados mensais,Economia,https://olinda.bcb.gov.br/olinda/servico/Expectativas/versao/v1/aplicacao#!/ExpectativaMercadoMensais,JSON,
